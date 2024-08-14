@@ -8,8 +8,9 @@
 4) Enjoy your scroll-induced animations
 
 ### Disclaimer
-True private methods
-Only one-value CSS property accepted this far
+- Based on Intersection Observer API
+- True private methods
+- Only one-value CSS property accepted this far
 CSS accepted values:
 - all bare unit values such as ```100px```, ```50%```, ```1.4rem```,
 - color values:```rgb(5, 84, 39)``` and ```rgba(5, 84, 39, 0.8)```,
